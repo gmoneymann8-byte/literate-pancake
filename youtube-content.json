@@ -1,0 +1,22 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "title": "My Awesome Video #1",
+      "description": "Check out this amazing content! Subscribe for more videos like this.",
+      "tags": ["awesome", "content", "tutorial"],
+      "video_url": "https://example.com/video1.mp4",
+      "thumbnail_url": "https://example.com/thumb1.jpg",
+      "uploaded": false
+    },
+    {
+      "id": 2,
+      "title": "My Awesome Video #2",
+      "description": "Part 2 of my awesome series! Don't miss out.",
+      "tags": ["awesome", "part2", "series"],
+      "video_url": "https://example.com/video2.mp4",
+      "thumbnail_url": "https://example.com/thumb2.jpg",
+      "uploaded": false
+    }
+  ]
+}
